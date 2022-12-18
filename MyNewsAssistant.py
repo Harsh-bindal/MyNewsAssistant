@@ -1,7 +1,3 @@
-##Akhbar padke sunaao
-# NEWS API pr account banaye  waha se key le
-# use json module
-# use request module
 
 import requests  ## This module take url of website
 import random    ## use of random module to shuffle news every time
